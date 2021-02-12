@@ -1,0 +1,627 @@
+body{
+	background: url(image/f1.png) fixed no-repeat;
+	background-size: cover;
+}
+
+@font-face{
+	font-family: l1;
+	src: url(KGALittleSpark.ttf)
+}
+ .l1{
+ 	position: absolute;
+ 	font-family: KG A Little Spark;
+ 	top: -5%;
+ 	left: 45%;
+ 	font-size: 75px;
+ }
+
+
+@font-face{
+	font-family: l2;
+	src: url(CosmosLogicDemoVersion.ttf)
+}
+ .l2{
+ 	position: absolute;
+ 	font-family: Cosmos Logic Demo Version;
+ 	top: 9%;
+ 	left: 43%;
+ 	font-size: 39px;
+ }
+
+ .div{
+ 	position: absolute;
+ 	background-image: url(verde.jpg);
+ 	width: 1348px;
+ 	height: 100px;
+ 	left: 1px;
+ 	top: 40px;
+ }
+
+ .div:hover{
+ 	background-image: url(azul.jpg);
+ 	
+ }
+
+ .b1{
+ 	position: absolute;
+ 	      top: 23%;
+      left: 30%;
+       	font-family: KG A Little Spark;
+ 	background color: #2874A6;
+ 	border: none;
+      color: black;
+      padding: 10px 22px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s; 
+      transition-duration: 0.4s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white; 
+      border: 2px solid #AED6F1;
+ }
+
+ .b1:hover{
+ 	      background-color: #AED6F1;
+      font color: white;
+       padding: 16px 28px;
+
+ }
+
+ .b2{
+ 	position: absolute;
+ 	color: #A9DFBF;
+ 	      top: 23%;
+      left: 42%;
+       	font-family: KG A Little Spark;
+ 	background: transparent;
+ 	border: none;
+      color: black;
+      padding: 10px 22px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s; 
+      transition-duration: 0.4s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white; 
+      border: 2px solid #AED6F1;
+ }
+
+ .b2:hover{
+ 	      background-color: #AED6F1;
+      font color: white;
+       padding: 16px 28px;
+ }
+
+ .b3{
+ 	position: absolute;
+ 	color: #A9DFBF;
+ 	      top: 23%;
+      left: 61%;
+       	font-family: KG A Little Spark;
+ 	background: transparent;
+ 	border: none;
+      color: black;
+      padding: 10px 22px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s; 
+      transition-duration: 0.3s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white; 
+      border: 2px solid #AED6F1;
+ }
+
+ .b3:hover{
+ 	      background-color: #AED6F1;
+      font color: white;
+       padding: 16px 28px;
+ }
+ .b4{
+ 	position: absolute;
+ 	      top: 120%;
+      left: 72%;
+       	font-family: KG A Little Spark;
+ 	background color: #2874A6;
+ 	border: none;
+      color: black;
+      padding: 10px 22px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s; 
+      transition-duration: 0.4s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white; 
+      border: 2px solid #AED6F1;
+ }
+
+ .b4:hover{
+ 	      background-color: #AED6F1;
+      font color: white;
+       padding: 16px 28px;
+   }
+    
+
+ .b5{
+ 	position: absolute;
+ 	      top: 233%;
+      left: 80%;
+       	font-family: KG A Little Spark;
+ 	background color: #2874A6;
+ 	border: none;
+      color: black;
+      padding: 10px 22px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s; 
+      transition-duration: 0.4s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white; 
+      border: 2px solid #AED6F1;
+ }
+
+ .b5:hover{
+ 	      background-color: #AED6F1;
+      font color: white;
+       padding: 16px 28px;
+   }
+
+ .b6{
+ 	position: absolute;
+ 	      top: 310%;
+      left: 82%;
+       	font-family: KG A Little Spark;
+ 	background color: #2874A6;
+ 	border: none;
+      color: black;
+      padding: 10px 22px;
+      text-align: center;
+      display: inline-block;
+      font-size: 24px;
+      margin: 2px 2px;
+      -webkit-transition-duration: 0.4s; 
+      transition-duration: 0.4s;
+      cursor: pointer;
+      text-decoration: none;
+      text-transform: uppercase;
+      background-color: white; 
+      border: 2px solid #AED6F1;
+ }
+
+ .b6:hover{
+ 	      background-color: #AED6F1;
+      font color: white;
+       padding: 16px 28px;
+   }
+
+
+.fle{
+	position: absolute;
+	top: 118%;
+	left: 63%;
+	width: 100px;
+	height: 70px;
+
+}
+
+.div2{
+	position: absolute;
+	top: 57%;
+	left: 50%;
+	width: 43%;
+	height: 49%;
+	background-color: #EBF5FB;
+}
+
+.t1{
+	position: absolute;
+	top: -22%;
+	left: 35%;
+	font-size: 63px;
+	font-family: Cosmos Logic Demo Version;
+}
+.t1:hover{
+	font-size: 90px;
+	top: -34%;
+	left: 28%;
+	      transition-duration: 0.4s;
+}
+
+.linea{
+	position: absolute;
+	top: 21%;
+	left: 0%;
+	width: 580px;
+}
+
+
+.d{
+	position: absolute;
+	font-family: arial;
+	top: 34%;
+	left: 7%;
+	font size: 50px;
+}
+
+
+
+.logo{
+	position: absolute;
+	width: 110px;
+	height: 75px;
+	left: 50px;
+	top: -2px;
+}
+.logo2{
+	position: absolute;
+	width: 110px;
+	height: 75px;
+	left: 420px;
+	top: -2px;
+}
+
+.gr{
+	position: absolute;
+	top: 355px;
+	width: 560px;
+	height: 400px;
+	left: 70px;
+	background-color: #D4E6F1;
+}
+
+.tabl{
+	position: absolute;
+	top: 330px;
+	left: 90px;
+	height: 60px;
+	width: 60px;
+	border-radius: 30px;
+	background-color: #2980B9
+}
+.contabla{
+	position: absolute;
+	top: -304px;
+	width: 320px;
+	height: 40%;
+	left: -70px;
+	font-family: Cosmos Logic Demo Version;
+	font-size: 27px;
+	display: none;
+}
+.tabl:hover .contabla{
+	display: block;
+}
+
+
+.tabli{	
+	position: absolute;
+	width: 210px;
+	height: 80px;
+	top: 70px;
+	left: 320px;
+
+}
+
+.peque{
+	position: absolute;
+	top: 30px;
+	width: 560px;
+	height: 230px;
+	left: 0%;
+}
+
+.gra{
+	position: absolute;
+	top: 330px;
+	left: 240px;
+	height: 60px;
+	width: 60px;
+	border-radius: 30px;
+	background-color: #2980B9
+}
+.congrafi{
+	position: absolute;
+	top: -280px;
+	width: 320px;
+	height: 40%;
+	left: -20px;
+	font-family: Cosmos Logic Demo Version;
+	font-size: 27px;
+	display: none;
+}
+.gra:hover .congrafi{
+	display: block;
+}
+
+.grafi{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	top: 30px;
+	left: -180px;
+}
+
+
+.cop{
+	position: absolute;
+	top: 330px;
+	left: 380px;
+	height: 60px;
+	width: 60px;
+	border-radius: 30px;
+	background-color: #2980B9
+}
+.conop{
+	position: absolute;
+	top: -290px;
+	width: 470px;
+	height: 40%;
+	left: -320px;
+	font-family: Cosmos Logic Demo Version;
+	font-size: 27px;
+	display: none;
+}
+.cop:hover .conop{
+	display: block;
+}
+
+.iop{
+		width: 380px;
+	height: 85px;
+	top: 30px;
+	left: 500px;
+}
+
+.me{
+	position: absolute;
+	background-color: #D7BDE2;
+	width: 330px;
+	top: 96%;
+	left: 13%;
+	height: 36px;
+	font-family: Cosmos Logic Demo Version;
+	font-size: 31px;
+
+}
+
+
+
+.div3{
+	position: absolute;
+	top: 140%;
+	left: 15%;
+	width: 75%;
+	height: 90%;
+	background-color: #E8DAEF;
+}
+
+.tf{
+	position: absolute;
+	top: -10%;
+	left: 40%;
+	font-size: 63px;
+	font-family: Cosmos Logic Demo Version;
+}
+.tf:hover{
+	font-size: 79px;
+	top: -13%;
+	left: 36%;
+	      transition-duration: 0.4s;
+	  }
+
+.lif{
+		position: absolute;
+	top: 13%;
+	left: 0%;
+	width: 1010px;
+}
+
+.log{
+	position: absolute;
+	top: 15%;
+	left: 1%;
+	font-size: 39px;
+	font-family: Cosmos Logic Demo Version;
+}
+.logi{
+	position: absolute;
+	top: 29%;
+	left: 1%;
+	width: 500px;
+	height: 90px;
+}
+
+
+.bus{
+	position: absolute;
+	top: 41%;
+	left: 1%;
+	font-size: 39px;
+	font-family: Cosmos Logic Demo Version;
+}
+.buse{
+	position: absolute;
+	top: 56%;
+	left: 1%;
+	width: 630px;
+	height: 260px;
+}
+
+.fun{
+	position: absolute;
+	top: 44%;
+	left: 70%;
+	width: 280px;
+	height: 220px;
+}
+.fun:hover{
+
+	top: 60%;
+	      transition-duration: 0.5s;
+}
+
+
+.fle2{
+	position: absolute;
+	top: 232%;
+	left: 72%;
+	width: 100px;
+	height: 70px;
+
+}
+
+.al{
+	position: absolute;
+	top: 290%;
+	left: 990px;
+	height: 60px;
+	width: 320px;
+	font-size: 55px;
+	font-family: Cosmos Logic Demo Version;
+	background-color: #ABEBC6;
+}
+
+.gig{
+	position: absolute;
+	top: 260%;
+	left: 100px;
+	height: 520px;
+	width: 850px;
+	background-color: #D6EAF8;
+}
+
+.bsu{
+	position: absolute;
+	top: 450px;
+	left: 140px;
+	height: 50px;
+	width: 90px;
+	font-size: 45px;
+	font-family: Cosmos Logic Demo Version;
+	background-color: #2980B9
+}
+.consu{
+	position: absolute;
+	top: -390px;
+	width: 470px;
+	height: 40%;
+	left: 140px;
+	font-family: Cosmos Logic Demo Version;
+	font-size: 33px;
+	display: none;
+}
+
+.bsu:hover .consu{
+	display: block;
+}
+
+.imsu{
+	position: absolute;
+	top: 50px;
+	width: 500px;
+	height: 800%;
+	left: -90px;
+
+}
+
+
+.ben{
+	position: absolute;
+	top: 450px;
+	left: 380px;
+	height: 50px;
+	width: 90px;
+	font-size: 45px;
+	font-family: Cosmos Logic Demo Version;
+	background-color: #2980B9
+}
+.conben{
+	position: absolute;
+	top: -400px;
+	width: 520px;
+	height: 40%;
+	left: -200px;
+	font-family: Cosmos Logic Demo Version;
+	font-size: 33px;
+	display: none;
+}
+
+.ben:hover .conben{
+	display: block;
+}
+
+.imen{
+	position: absolute;
+	top: 210px;
+	width: 300px;
+	height: 500%;
+	left: 39px;
+
+}
+
+
+
+.pro{
+	position: absolute;
+	top: 450px;
+	left: 620px;
+	height: 50px;
+	width: 120px;
+	font-size: 45px;
+	font-family: Cosmos Logic Demo Version;
+	background-color: #2980B9
+}
+.conpro{
+	position: absolute;
+	top: -400px;
+	width: 520px;
+	height: 40%;
+	left: -500px;
+	font-family: Cosmos Logic Demo Version;
+	font-size: 33px;
+	display: none;
+}
+
+.pro:hover .conpro{
+	display: block;
+}
+
+.ipro{
+	position: absolute;
+	top: 170px;
+	width: 400px;
+	height: 600%;
+	left: 100px;
+
+}
+
+.me2{
+	position: absolute;
+	background-color: #D7BDE2;
+	width: 330px;
+	top: 314%;
+	left: 26%;
+	height: 36px;
+	font-family: Cosmos Logic Demo Version;
+	font-size: 31px;
+
+}
